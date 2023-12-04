@@ -7,7 +7,7 @@ headers = {
     'Accept': 'application/vnd.github.v3+json',
 }
 top_java_repos = [
-    "google/guava",
+    "google/guava", # 25 most starred repos
     "CyC2018/CS-Notes",
     "Snailclimb/JavaGuide",
     "iluwatar/java-design-patterns",
@@ -27,7 +27,28 @@ top_java_repos = [
     "apache/spark",
     "skylot/jadx",
     "PhilJay/MPAndroidChart",
-    "jeecgboot/jeecg-boot"
+    "jeecgboot/jeecg-boot",
+    "autonomousapps/dependency-analysis-gradle-plugin", # common gradle plugins
+    "modrinth/minotaur",
+    "klawson88/liquiprime",
+    "klawson88/liquigen",
+    "bkmbigo/epit",
+    "TanVD/kosogor",
+    "kazurayam/inspectus4katalon-gradle-plugin",
+    "robertfmurdock/jsmints",
+    "steklopod/gradle-ssh-plugin",
+    "gesellix/gradle-docker-plugin",
+    "steklopod/gradle-ssh-plugin",
+    "robertfmurdock/testmints",
+    "DanySK/gradle-kotlin-qa",
+    "JetBrains/kotlin", # common libs
+    "FasterXML/jackson",
+    "apache/commons-lang",
+    "mockito/mockito",
+    "scala/scala",
+    "qos-ch/slf4j",
+    "junit-team/junit5",
+    "junit-team/junit4"
 ]
 
 def get_workflows(owner, repo):
