@@ -1,0 +1,1101 @@
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:30:33.4375900Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:31:07.4618890Z INFO    | boot completed
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:31:07.5095110Z INFO    | boot time 154351 ms
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:31:07.5344690Z INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:31:07.5350770Z INFO    | Revoking microphone permissions for Google App.
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:31:25.0392580Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:35:59.2304330Z INFO    | Wait for emulator (pid 4203) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:35:59.5742080Z INFO    | Discarding the changed state: command-line flag
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:35:59.6483150Z WARNING | Discarding the changed state (command-line flag).
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:22.0248687Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:15.8368083Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:18.2687096Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:28.7741526Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:36.9283744Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:17.4995065Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:30.4579357Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:23.2660713Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:25.3540589Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:20.3925328Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:01.0527960Z INFO    | Android emulator version 31.3.14.0 (build_id 9322596) (CL:N/A)
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:01.7448950Z WARNING | Running on a system with less than 6 logical cores. Setting number of virtual cores to 1
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:01.7460350Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,ERROR,"2023-12-01T16:25:02.1288340Z ERROR   | Unable to connect to adb daemon on port: 5037
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.1381010Z WARNING | cannot add library /Users/runner/Library/Android/sdk/emulator/qemu/darwin-x86_64/lib64/vulkan/libvulkan.dylib: failed
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2175230Z INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2183740Z INFO    | added library /Users/runner/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2186380Z INFO    | configAndStartRenderer: setting vsync to 60 hz
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2195590Z INFO    | Sending adb public key [QAAAAKMYQ/T1pAsbP7sXpWOspQDXTi8+XUlJEGbQwUe7SP5XcCKZfzFObTWgj7BO14qmk2VfH/7Jd6xaVyLE/mpHeVeWLwU7WlkwIj0YkZNovJH5AG6Evto3zFur5PVf8H2NbEYLAJ0WN2a1LnMVVUd9ts4qfklj1jom5hTI6BZPTClO48CfXvqO97WvNU5qAGapMfkbmA2128IkMrMnKpHgZk4Yo4hoGDdxAkgK1DyET3MLuT5BZyngcpx2HkhPSd2cnpKx92igWOBIwdfszYUYDLabIdRQSJXmXfH+oxXHluSwhDV4jvFZrpYEyGnjyQS2FjD9mbXviNam+h7Fxtdj/RO3YSKVOide/HEtG9K4HHCubfyZ907DEs1tsvppRaJDa2pleB0fiKkcphlB4kROLpxSmdke4C1hJ3qj7s8GkO3doDsig11BuKBVTHoeW99QfW5+EdV27gvwA7ivgEEc9F/dtrBuI03tSXFgapOIPTCOrLUSfqp3scSWLJ0e4N1Zk5jQiroPW7frpjShatiud0uWqGlSRxI+/s9o2Z6SBnRcRPUzng3jgAgQw/VmY2m4IfhUURow6kWLBNWMrTNnHnokHRkjhplWHaZ3eOqV9z4ntoIAy3qUsvHC/5P8jKk4t5MUV66NIrbp0qLJJ5bmuH55B+TXB9ZKIzDkMPII0aLtaCAWOAEAAQA= runner@unknown]
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2229370Z INFO    | injectedQemuChannel!
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2231190Z INFO    | Informing listeners of injection.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2232930Z INFO    | Rootcanal has  been activated.
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.2680190Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.2698140Z WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2708750Z INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2711910Z INFO    | Advertising in: /Users/runner/Library/Caches/TemporaryItems/avd/running/pid_3562.ini
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2956780Z INFO    | setDisplayConfigs w 320 h 640 dpiX 160 dpiY 160
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.3024780Z INFO    | Cold boot: requested by the user
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.3039160Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.3841810Z INFO    | Your emulator is out of date, please update by launching Android Studio:
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.3846340Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:30:28.7137790Z INFO    | boot completed
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:30:28.7138930Z INFO    | boot time 327508 ms
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:30:28.7139770Z INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:30:28.7143080Z INFO    | Revoking microphone permissions for Google App.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:36:21.8543510Z INFO    | Wait for emulator (pid 3562) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:36:21.8550860Z INFO    | Discarding the changed state: command-line flag
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:36:21.8554000Z WARNING | Discarding the changed state (command-line flag).
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:36:22.3655430Z INFO    | Closing down rootcanal.
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:46.6306752Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:17.7201311Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:41.4876353Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:24.3967372Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:01.0527920Z INFO    | Android emulator version 31.3.14.0 (build_id 9322596) (CL:N/A)
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:01.7448910Z WARNING | Running on a system with less than 6 logical cores. Setting number of virtual cores to 1
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:01.7460330Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,ERROR,"2023-12-01T16:25:02.1288310Z ERROR   | Unable to connect to adb daemon on port: 5037
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.1380980Z WARNING | cannot add library /Users/runner/Library/Android/sdk/emulator/qemu/darwin-x86_64/lib64/vulkan/libvulkan.dylib: failed
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2175170Z INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2183720Z INFO    | added library /Users/runner/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2186360Z INFO    | configAndStartRenderer: setting vsync to 60 hz
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2195540Z INFO    | Sending adb public key [QAAAAKMYQ/T1pAsbP7sXpWOspQDXTi8+XUlJEGbQwUe7SP5XcCKZfzFObTWgj7BO14qmk2VfH/7Jd6xaVyLE/mpHeVeWLwU7WlkwIj0YkZNovJH5AG6Evto3zFur5PVf8H2NbEYLAJ0WN2a1LnMVVUd9ts4qfklj1jom5hTI6BZPTClO48CfXvqO97WvNU5qAGapMfkbmA2128IkMrMnKpHgZk4Yo4hoGDdxAkgK1DyET3MLuT5BZyngcpx2HkhPSd2cnpKx92igWOBIwdfszYUYDLabIdRQSJXmXfH+oxXHluSwhDV4jvFZrpYEyGnjyQS2FjD9mbXviNam+h7Fxtdj/RO3YSKVOide/HEtG9K4HHCubfyZ907DEs1tsvppRaJDa2pleB0fiKkcphlB4kROLpxSmdke4C1hJ3qj7s8GkO3doDsig11BuKBVTHoeW99QfW5+EdV27gvwA7ivgEEc9F/dtrBuI03tSXFgapOIPTCOrLUSfqp3scSWLJ0e4N1Zk5jQiroPW7frpjShatiud0uWqGlSRxI+/s9o2Z6SBnRcRPUzng3jgAgQw/VmY2m4IfhUURow6kWLBNWMrTNnHnokHRkjhplWHaZ3eOqV9z4ntoIAy3qUsvHC/5P8jKk4t5MUV66NIrbp0qLJJ5bmuH55B+TXB9ZKIzDkMPII0aLtaCAWOAEAAQA= runner@unknown]
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2229330Z INFO    | injectedQemuChannel!
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2231170Z INFO    | Informing listeners of injection.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2232920Z INFO    | Rootcanal has  been activated.
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.2680160Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.2698130Z WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2708730Z INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2711900Z INFO    | Advertising in: /Users/runner/Library/Caches/TemporaryItems/avd/running/pid_3562.ini
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.2956750Z INFO    | setDisplayConfigs w 320 h 640 dpiX 160 dpiY 160
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.3024750Z INFO    | Cold boot: requested by the user
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.3039140Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:25:02.3841760Z INFO    | Your emulator is out of date, please update by launching Android Studio:
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:02.3846340Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:30:28.7137760Z INFO    | boot completed
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:30:28.7138290Z INFO    | boot time 327508 ms
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:30:28.7139740Z INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:30:28.7143070Z INFO    | Revoking microphone permissions for Google App.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:36:21.8543480Z INFO    | Wait for emulator (pid 3562) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:36:21.8550840Z INFO    | Discarding the changed state: command-line flag
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:36:21.8553990Z WARNING | Discarding the changed state (command-line flag).
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:36:22.3655390Z INFO    | Closing down rootcanal.
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:30.4579301Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:32.9866420Z INFO    | Android emulator version 31.3.14.0 (build_id 9322596) (CL:N/A)
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:28:33.7805700Z WARNING | Running on a system with less than 6 logical cores. Setting number of virtual cores to 1
+"
+logs_mockito-mockito-7062533877.zip,ERROR,"2023-12-01T16:28:34.1756080Z ERROR   | Unable to connect to adb daemon on port: 5037
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:28:34.2346440Z WARNING | cannot add library /Users/runner/Library/Android/sdk/emulator/qemu/darwin-x86_64/lib64/vulkan/libvulkan.dylib: failed
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:34.2451660Z INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:34.2454420Z INFO    | configAndStartRenderer: setting vsync to 60 hz
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:34.2458380Z INFO    | added library /Users/runner/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:28:34.2854800Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:28:34.2871990Z WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:34.2880750Z INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:34.2883150Z INFO    | Advertising in: /Users/runner/Library/Caches/TemporaryItems/avd/running/pid_4203.ini
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:34.3020840Z INFO    | setDisplayConfigs w 320 h 640 dpiX 160 dpiY 160
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:34.3086050Z INFO    | Cold boot: requested by the user
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:28:34.3097600Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:28:34.4627770Z INFO    | Your emulator is out of date, please update by launching Android Studio:
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:28:34.4643650Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:30:33.4375870Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:31:07.4618850Z INFO    | boot completed
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:31:07.5095060Z INFO    | boot time 154351 ms
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:31:07.5344630Z INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:31:07.5350750Z INFO    | Revoking microphone permissions for Google App.
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:31:25.0392540Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:35:59.2304260Z INFO    | Wait for emulator (pid 4203) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+"
+logs_mockito-mockito-7062533877.zip,INFO,"2023-12-01T16:35:59.5742010Z INFO    | Discarding the changed state: command-line flag
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:35:59.6483060Z WARNING | Discarding the changed state (command-line flag).
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:24.3967333Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:20.3925275Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:23.2660667Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:15.8368036Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:22.0248647Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:41.4876305Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:25.3540573Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:46.6306673Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:17.4995016Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:36.9283686Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:18.2687047Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:17.7201298Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_mockito-mockito-7062533877.zip,WARN,"2023-12-01T16:25:28.7741517Z WARNING: package com.sun.tools.javac.type not in jdk.compiler
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-7078927442.zip,WARN,"2023-12-03T19:31:32.5549511Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-7078927442.zip,WARN,"2023-12-03T19:31:49.7272189Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-7078927442.zip,WARN,"2023-12-03T19:38:17.0345258Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-7078927442.zip,WARN,"2023-12-03T19:31:32.5549506Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-7078927442.zip,WARN,"2023-12-03T19:38:17.0345250Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-7078927442.zip,WARN,"2023-12-03T19:31:49.7272180Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:20:07.2557130Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:32.5495810Z INFO    | Android emulator version 32.1.15.0 (build_id 10696886) (CL:N/A)
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:32.5497500Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-29/default/x86/
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:32.5500580Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-29/default/x86/
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:33.2600580Z WARNING | Running on a system with less than 6 logical cores. Setting number of virtual cores to 1
+"
+logs_square-okhttp-6925087984.zip,ERROR,"2023-11-20T03:44:33.7875930Z ERROR   | Unable to connect to adb daemon on port: 5037
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:33.8153200Z WARNING | cannot add library /Users/runner/Library/Android/sdk/emulator/qemu/darwin-x86_64/lib64/vulkan/libvulkan.dylib: failed
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:33.9752490Z INFO    | Crashreporting disabled, not reporting crashes.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:33.9754270Z INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:33.9755970Z INFO    | added library /Users/runner/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:34.0536310Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:34.0562530Z WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.0577060Z INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.0588260Z INFO    | Advertising in: /Users/runner/Library/Caches/TemporaryItems/avd/running/pid_7572.ini
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.0855090Z INFO    | Setting display: 0 configuration to: 320x640, dpi: 160x160 
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.0984940Z INFO    | Cold boot: requested by the user
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:34.0994370Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.4416370Z INFO    | Your emulator is out of date, please update by launching Android Studio:
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:34.4422470Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:45:03.8342650Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:46:29.7570610Z INFO    | Boot completed in 116903 ms
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:46:29.7571990Z INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:46:29.7619780Z INFO    | Revoking microphone permissions for Google App.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:46:50.4765280Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:46:58.2139680Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:24.7338015Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:26.7259751Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:25.9482024Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:32.9300546Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:28.6576915Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:29.7939264Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:19:12.5741080Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:03.2828460Z INFO    | Android emulator version 32.1.15.0 (build_id 10696886) (CL:N/A)
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:03.2831170Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-21/default/x86/
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:03.2833120Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-21/default/x86/
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:13.7957440Z WARNING | encryption is off
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:13.8071690Z WARNING | Running on a system with less than 6 logical cores. Setting number of virtual cores to 1
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:14.3250160Z WARNING | cannot add library /Users/runner/Library/Android/sdk/emulator/qemu/darwin-x86_64/lib64/vulkan/libvulkan.dylib: failed
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.3333210Z INFO    | Crashreporting disabled, not reporting crashes.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.3336260Z INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.3374620Z INFO    | added library /Users/runner/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:14.5917280Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:14.5956940Z WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.5975420Z INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.5990570Z INFO    | Advertising in: /Users/runner/Library/Caches/TemporaryItems/avd/running/pid_5994.ini
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.6154990Z INFO    | Setting display: 0 configuration to: 320x640, dpi: 160x160 
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.6250240Z INFO    | Cold boot: requested by the user
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:14.6266250Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:15.1028090Z INFO    | Your emulator is out of date, please update by launching Android Studio:
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:15.1037340Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:25.5923410Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:23:09.9642190Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:26:14.3250540Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:26:14.3255300Z INFO    | Wait for emulator (pid 5994) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:26:14.3264590Z INFO    | Discarding the changed state: command-line flag
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:26:14.3267190Z WARNING | Discarding the changed state (command-line flag).
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:26.7259742Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:29.7939253Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:28.6576882Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:32.9300537Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:24.7338005Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:18:25.9482015Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:19:12.5741080Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:03.2828420Z INFO    | Android emulator version 32.1.15.0 (build_id 10696886) (CL:N/A)
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:03.2831150Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-21/default/x86/
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:03.2833070Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-21/default/x86/
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:13.7957400Z WARNING | encryption is off
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:13.8071620Z WARNING | Running on a system with less than 6 logical cores. Setting number of virtual cores to 1
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:14.3250090Z WARNING | cannot add library /Users/runner/Library/Android/sdk/emulator/qemu/darwin-x86_64/lib64/vulkan/libvulkan.dylib: failed
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.3333150Z INFO    | Crashreporting disabled, not reporting crashes.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.3336240Z INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.3374580Z INFO    | added library /Users/runner/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:14.5917220Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:14.5956890Z WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.5975380Z INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.5990550Z INFO    | Advertising in: /Users/runner/Library/Caches/TemporaryItems/avd/running/pid_5994.ini
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.6154950Z INFO    | Setting display: 0 configuration to: 320x640, dpi: 160x160 
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:14.6250210Z INFO    | Cold boot: requested by the user
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:14.6266220Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:22:15.1028040Z INFO    | Your emulator is out of date, please update by launching Android Studio:
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:15.1037320Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:22:25.5923270Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:23:09.9642170Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:26:14.3250520Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:26:14.3254600Z INFO    | Wait for emulator (pid 5994) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:26:14.3264570Z INFO    | Discarding the changed state: command-line flag
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:26:14.3267170Z WARNING | Discarding the changed state (command-line flag).
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:20:07.2557110Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:32.5495770Z INFO    | Android emulator version 32.1.15.0 (build_id 10696886) (CL:N/A)
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:32.5497490Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-29/default/x86/
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:32.5500560Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-29/default/x86/
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:33.2600540Z WARNING | Running on a system with less than 6 logical cores. Setting number of virtual cores to 1
+"
+logs_square-okhttp-6925087984.zip,ERROR,"2023-11-20T03:44:33.7875890Z ERROR   | Unable to connect to adb daemon on port: 5037
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:33.8153150Z WARNING | cannot add library /Users/runner/Library/Android/sdk/emulator/qemu/darwin-x86_64/lib64/vulkan/libvulkan.dylib: failed
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:33.9752460Z INFO    | Crashreporting disabled, not reporting crashes.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:33.9754260Z INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:33.9755970Z INFO    | added library /Users/runner/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:34.0536270Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:34.0562500Z WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.0577050Z INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.0588240Z INFO    | Advertising in: /Users/runner/Library/Caches/TemporaryItems/avd/running/pid_7572.ini
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.0855050Z INFO    | Setting display: 0 configuration to: 320x640, dpi: 160x160 
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.0984910Z INFO    | Cold boot: requested by the user
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:34.0994360Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:44:34.4416330Z INFO    | Your emulator is out of date, please update by launching Android Studio:
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:44:34.4422450Z WARNING | Failed to process .ini file /Users/runner/.android/emu-update-last-check.ini for reading.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:45:03.8342590Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:46:29.7570550Z INFO    | Boot completed in 116903 ms
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:46:29.7571980Z INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+"
+logs_square-okhttp-6925087984.zip,INFO,"2023-11-20T03:46:29.7619740Z INFO    | Revoking microphone permissions for Google App.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:46:50.4765260Z WARNING: The option setting 'android.experimental.lint.version=8.1.0-rc01' is experimental.
+"
+logs_square-okhttp-6925087984.zip,WARN,"2023-11-20T03:46:58.2139640Z WARNING | /etc/localtime does not point to zoneinfo-compatible timezone name
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:18.8573363Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:19.0480050Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:19.9985936Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:20.4216101Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:56:16.6832329Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:57:19.5256784Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:14.0197099Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:14.2022243Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:15.0876596Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:15.5525785Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:51:57.9569096Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:52:58.8238600Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:12:55.5878303Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,ERROR,"2023-11-16T10:13:03.8287462Z ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:03.8292279Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:03.8958956Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:04.2891243Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:04.8709485Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:04.9302511Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:05.0819847Z WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:22:47.4287631Z WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:09.7661824Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:19.1046113Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:19.1694857Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:19.5948144Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:20.2347154Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:20.2966906Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:20.6250966Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:21.2887599Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:21.3531540Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:21.6862887Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:22.6131035Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:22.6723010Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:32.6154133Z INFO    -  Cleaning site directory
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:32.6155223Z INFO    -  Building documentation to directory: /__w/spark/spark/sql/site
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:33.0742653Z INFO    -  DeprecationWarning: 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:33.0785825Z INFO    -  DeprecationWarning: 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:33.1487660Z INFO    -  DeprecationWarning: 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:33.1549531Z INFO    -  Documentation built in 0.54 seconds
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:22.3396841Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:22.5199506Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:23.4372170Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:23.8647658Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:51:44.6421106Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:52:45.3006890Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:15.4955316Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:15.6776434Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:16.5566005Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:16.9868280Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:00:05.9036420Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:01:06.2528005Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:08:56.4474994Z WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:08:56.4483152Z WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeRefLAPACK
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:08:56.4946819Z WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:08:56.4953231Z WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:51:44.6421092Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:52:45.3006870Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:22.3396794Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:22.5199454Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:23.4372120Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:23.8647612Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:00:05.9036376Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:01:06.2527991Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:15.4955281Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:15.6776410Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:16.5565957Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:16.9868245Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:08:56.4474974Z WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:08:56.4483147Z WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeRefLAPACK
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:08:56.4946813Z WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T11:08:56.4953227Z WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:56:16.6832316Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:57:19.5256772Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:18.8573305Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:19.0479939Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:19.9985887Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:20.4216048Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:22:47.4287626Z WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:05.0819839Z WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:32.6154097Z INFO    -  Cleaning site directory
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:32.6155203Z INFO    -  Building documentation to directory: /__w/spark/spark/sql/site
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:33.0742621Z INFO    -  DeprecationWarning: 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:33.0785805Z INFO    -  DeprecationWarning: 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:33.1487624Z INFO    -  DeprecationWarning: 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+"
+logs_apache-spark-6889248357.zip,INFO,"2023-11-16T11:13:33.1549514Z INFO    -  Documentation built in 0.54 seconds
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:09.7661787Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:19.1046106Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:19.1694835Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:19.5948077Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:20.2347133Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:20.2966884Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:20.6250922Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:21.2887585Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:21.3531500Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:21.6862851Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:22.6131025Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:23:22.6722986Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:12:55.5878265Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,ERROR,"2023-11-16T10:13:03.8287417Z ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:03.8292211Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:03.8958928Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:04.2891197Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:04.8709190Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:04.9302488Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:51:57.9569082Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:52:58.8238559Z WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:14.0197071Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:14.2022200Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:15.0876548Z WARNING: The directory '/github/home/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+"
+logs_apache-spark-6889248357.zip,WARN,"2023-11-16T10:13:15.5525739Z WARNING: You are using pip version 22.0.3; however, version 23.3.1 is available.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-6993731744.zip,WARN,"2023-11-26T05:43:48.7601889Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-6993731744.zip,WARN,"2023-11-26T05:45:12.0075963Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-6993731744.zip,WARN,"2023-11-26T05:51:54.0689265Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-6993731744.zip,WARN,"2023-11-26T06:18:00.2388242Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-6993731744.zip,WARN,"2023-11-26T06:18:00.2388233Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-6993731744.zip,WARN,"2023-11-26T05:43:48.7601430Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-6993731744.zip,WARN,"2023-11-26T05:51:54.0689254Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_autonomousapps-dependency-analysis-gradle-plugin-6993731744.zip,WARN,"2023-11-26T05:45:12.0075952Z WARNING: Unsupported Kotlin plugin version.
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:46.3213790Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:46.3215659Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:46.3217538Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:46.3218763Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:02.2980650Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:02.2984668Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:02.2988151Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:02.2989353Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:33.0015667Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:33.0017614Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:33.0020207Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:33.0021579Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:50.8654482Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:50.8656363Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:50.8658332Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:50.8659587Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:24.0525642Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:24.0528249Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:24.0530845Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:24.0562487Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:44.1676796Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:44.1679610Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:44.1681786Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:44.1683348Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:10.6363443Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:10.6447772Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:10.6450283Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:10.6451778Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:32.1072130Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:32.1074304Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:32.1076359Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:32.1077611Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:11.2128628Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:11.2130514Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:11.2132462Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:11.2133813Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:29.5900677Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:29.5902439Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:29.5904466Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:29.5905636Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:06.6015787Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:06.6018247Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:06.6020457Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:06.6022076Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:30.4469578Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:30.4567014Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:30.4568922Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:30.4570188Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:41:40.1404659Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:41:40.1694790Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:41:40.1817369Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:41:40.1863276Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:29.5851200Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:29.6302402Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:29.6329364Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:29.6379383Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:41.3220755Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:41.3269117Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:41.3283177Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:41.3433004Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:07.7833580Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:07.7863329Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:07.7872945Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:07.8033958Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:52.5161711Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:52.5262944Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:52.5366235Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:52.5422325Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:18.9520414Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:18.9609138Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:18.9628761Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:18.9638759Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:43:14.0650720Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:43:14.0746796Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:43:14.0748652Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:43:14.0806506Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:37.7444089Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:37.7628341Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:37.7698915Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:37.7813466Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:43.1356861Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:43.1359199Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:43.1400069Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:43.1401637Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:08.0014253Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:08.0016500Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:08.0018682Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:08.0019882Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:49.2143442Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:49.2322298Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:49.2520999Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:49.2759807Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:13.4041466Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:13.4069373Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:13.4130461Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:13.4143318Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:43:14.0650673Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:43:14.0746764Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:43:14.0748646Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:43:14.0806138Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:37.7444033Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:37.7628296Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:37.7698872Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:37.7813401Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:43.1356812Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:43.1359153Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:43.1400048Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:43.1401626Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:08.0014204Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:08.0016484Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:08.0018617Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:08.0019876Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:49.2143389Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:49.2311080Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:49.2520961Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:49.2759549Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:13.4041421Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:13.4064773Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:13.4130438Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:13.4143295Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:10.6363402Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:10.6447740Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:10.6450271Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:10.6451770Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:32.1072089Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:32.1074292Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:32.1076352Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:32.1077606Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:11.2128591Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:11.2130500Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:11.2132436Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:11.2133773Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:29.5900192Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:29.5902431Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:29.5904459Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:29.5905629Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:06.6015746Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:06.6018193Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:06.6020441Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:06.6022064Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:30.4469529Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:30.4566978Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:30.4568914Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:54:30.4570181Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:46.3213748Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:46.3215652Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:46.3217534Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:38:46.3218757Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:02.2980614Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:02.2984656Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:02.2988141Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:50:02.2989345Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:33.0015618Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:33.0017602Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:33.0020196Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:33.0021547Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:50.8653975Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:50.8656356Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:50.8658326Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:52:50.8659581Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:24.0525597Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:24.0528209Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:24.0530830Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:24.0562473Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:44.1676733Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:44.1679598Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/home/runner/work/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:44.1681776Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:53:44.1683340Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:41:40.1404600Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:41:40.1694572Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:41:40.1817297Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:41:40.1862965Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:29.5851143Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:29.6302178Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:29.6329131Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T20:57:29.6379199Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:41.3216425Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:41.3269059Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:41.3283156Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:00:41.3432633Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:07.7833534Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:07.7863305Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:07.7872927Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:07.8033894Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:52.5161443Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:52.5262903Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:52.5366185Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:01:52.5422044Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:18.9520365Z WARNING: A terminally deprecated method in java.lang.System has been called
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:18.9609103Z WARNING: System::setSecurityManager has been called by scala.tools.partest.nest.Runner (file:/D:/a/scala/scala/build/quick/classes/partest/)
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:18.9628745Z WARNING: Please consider reporting this to the maintainers of scala.tools.partest.nest.Runner
+"
+logs_scala-scala-7038076768.zip,WARN,"2023-11-29T21:02:18.9638743Z WARNING: System::setSecurityManager will be removed in a future release
+"
+logs_square-retrofit-7000651497.zip,INFO,"2023-11-27T04:34:38.2148710Z INFO    | Android emulator version 32.1.15.0 (build_id 10696886) (CL:N/A)
+"
+logs_square-retrofit-7000651497.zip,INFO,"2023-11-27T04:34:38.2150200Z INFO    | Found systemPath /Users/runner/Library/Android/sdk/system-images/android-29/default/x86/
+"

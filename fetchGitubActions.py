@@ -53,15 +53,15 @@ top_java_repos = [
 
 def get_workflows(owner, repo):
     url = f'https://api.github.com/repos/{owner}/{repo}/actions/workflows'
-    print(url)
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         return response.json()['workflows']
     else:
         raise Exception(f"Error fetching workflows: {response.content}")
 
-def get_workflow_runs(owner, repo, workflow_id):
-    url = f'https://api.github.com/repos/{owner}/{repo}/actions/workflows/{workflow_id}/runs'
+def get_workflow_runs(owner, repo, workflow_id, per_page=100, status = "failure"):
+    url = f'https://api.github.com/repos/{owner}/{repo}/actions/workflows/{workflow_id}/runs?per_page={per_page}&status={status}'
+    print(url)
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         return response.json()['workflow_runs']
@@ -69,14 +69,25 @@ def get_workflow_runs(owner, repo, workflow_id):
         raise Exception(f"Error fetching workflow runs: {response.content}")
 
 def get_run_logs(owner, repo, run_id):
-    url = f'https://api.github.com/repos/{owner}/{repo}/actions/runs/{run_id}/logs'
-    response = requests.get(url, headers=headers, stream=True)
-    if response.status_code == 200:
-        with open(f'data/logs_{owner}-{repo}-{run_id}.zip', 'wb') as file:
-            for chunk in response.iter_content(chunk_size=128):
+    run_details_url = f'https://api.github.com/repos/{owner}/{repo}/actions/runs/{run_id}'
+    details_response = requests.get(run_details_url, headers=headers)
+    if details_response.status_code != 200:
+        raise Exception(f"Error fetching run details: {details_response.content}")
+    run_details = details_response.json()
+    commit_hash = run_details.get('head_commit', {}).get('id', 'Unknown')
+
+    logs_url = f'https://api.github.com/repos/{owner}/{repo}/actions/runs/{run_id}/logs'
+    print(f"Logs URL: {logs_url}")
+    logs_response = requests.get(logs_url, headers=headers, stream=True)
+    if logs_response.status_code == 200:
+        log_filename = f'data/logs_{owner}-{repo}-{run_id}-{commit_hash}.zip'
+        with open(log_filename, 'wb') as file:
+            for chunk in logs_response.iter_content(chunk_size=128):
                 file.write(chunk)
+        print(f"Logs stored in {log_filename}")
     else:
-        raise Exception(f"Error fetching run logs: {response.content}")
+        raise Exception(f"Error fetching run logs: {logs_response.content}")
+
 
 def main():
     for java_repo in top_java_repos:
@@ -85,10 +96,9 @@ def main():
             workflows = get_workflows(owner, repo)
             for workflow in workflows:
                 print(f"Workflow: {workflow['name']}")
-                
                 runs = get_workflow_runs(owner, repo, workflow['id'])
                 for run in runs:
-                    print(f"  Run id: {run['id']}, Status: {run['status']}")
+                    print(f"  Run id: {run['id']}, Status: {run['html_url']} Commit: {run['head_sha']}")
                     get_run_logs(owner, repo, run['id'])
                     print(f"  Logs downloaded for run id: {run['id']}")
         except Exception as e:

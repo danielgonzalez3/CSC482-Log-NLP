@@ -4,8 +4,7 @@ import os
 import re
 
 def fetchLogs(texts, name):
-    log_regex = r"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d+Z) (INFO|ERROR|WARN|DEBUG|TRACE).*?(?=\d{4}-\d{2}-\d{2}T|\Z)"
-
+    log_regex = r"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d+Z) (ERROR|WARN|DEBUG|TRACE).*?(?=\d{4}-\d{2}-\d{2}T|\Z)"
     with open('global_logs.csv', mode='a', newline='') as file:
         writer = csv.writer(file)
         for text in texts:
