@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 
 .DS_Store
+
+# v2 tar files
+v2/ref_data/*.tar.gz
+v2/ref_data/*.tar
