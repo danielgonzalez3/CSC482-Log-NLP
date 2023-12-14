@@ -161,7 +161,8 @@ cython_debug/
 
 .DS_Store
 
-# v2 tar files
+# v2 tar files source and data too large to store on GH
 v2/ref_data/*.tar.gz
 v2/ref_data/*.tar
 v2/ref_data/**/*
+v2/data
