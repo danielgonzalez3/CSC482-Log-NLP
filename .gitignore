@@ -164,3 +164,4 @@ cython_debug/
 # v2 tar files
 v2/ref_data/*.tar.gz
 v2/ref_data/*.tar
+v2/ref_data/**/*
