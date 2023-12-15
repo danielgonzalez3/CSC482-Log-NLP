@@ -1,0 +1,11 @@
+will require python3 and the following dependencies:
+
+```
+requests
+pandas
+transformers
+numpy
+sklearn
+```
+
+https://github.com/danielgonzalez3/CSC482-Log-NLP
